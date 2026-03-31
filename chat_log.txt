@@ -1,0 +1,8 @@
+2026-03-31 15:00:53.489921 You: hello
+2026-03-31 15:00:53.489921 Bot: Hello! How can I help you?
+2026-03-31 15:02:22.700126 You: help
+2026-03-31 15:02:22.700126 Bot: You can ask me about Python, AI, and chatbots.
+2026-03-31 15:04:24.824703 You: how are you
+2026-03-31 15:04:24.824703 Bot: I am fine 😊. How about you?
+2026-03-31 15:05:22.993952 You: bye
+2026-03-31 15:05:22.993952 Bot: Goodbye!
